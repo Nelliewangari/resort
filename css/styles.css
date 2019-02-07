@@ -1,0 +1,30 @@
+ul {
+  display: inline;
+}
+a {
+  display: inline;
+  text-decoration: none;
+  color: #005670;
+  text-transform: capitalize;
+}
+h1 {
+  font-size: 35px;
+  font-style: normal;
+  font-family: tahoma;
+  text-transform: capitalize;
+}
+body{
+  font-size: 20px;
+  font-family: sans-serif;
+  font-variant: inherit;
+  font-weight: 200;
+}
+#topnav li{
+  display: inline;
+}
+#red{
+  color:red;
+}
+.gray{
+  background-color: gray;
+}
